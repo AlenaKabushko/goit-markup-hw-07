@@ -8,12 +8,13 @@
     letter-spacing: 0.03em;
 
     color: var(--akcent-color);
+
+    &__header {
+        color: #000000;
+    }
+
+    &__footer {
+        color: #ffffff;
+    }
 }
 
-.logo__header {
-    color: #000000;
-}
-
-.logo__footer {
-    color: #ffffff;
-}

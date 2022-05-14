@@ -4,10 +4,10 @@
 
 .features-list__item {
     width: 270px;
-}
 
-.features-list__item:not(:last-child) {
-    margin-right: 30px;
+    &:not(:last-child) {
+        margin-right: 30px;
+    }
 }
 
 .features__icon {
